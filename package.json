@@ -4,7 +4,7 @@
   "description": "Delete old Cloudflare Pages deployments, keeping the newest N",
   "type": "module",
   "bin": {
-    "cf-pc": "./dist/cf-pc.js"
+    "cf-pc": "dist/cf-pc.js"
   },
   "files": [
     "dist/cf-pc.js",
